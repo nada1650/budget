@@ -23,12 +23,14 @@ A premium, minimalist expense tracker built with Flutter, designed for security 
 
 *Please insert your real app screenshots into the `./screenshots/` directory using the filenames specified below:*
 
-| Screen | Placeholder | Description |
+| Screen | Live App Screenshot | Description |
 | :--- | :--- | :--- |
-| **Welcome** | ![Screenshot - Splash Screen](./screenshots/splash_screen.png) | The premium animated entry screen showcasing the 'budget' logo. |
-| **Authentication** | ![Screenshot - Sign In Page](./screenshots/auth_page.png) | The secure login and registration interface with Firebase integration. |
-| **Dashboard** | ![Screenshot - Main Dashboard](./screenshots/dashboard.png) | The overview of current balance, recent expenses, and quick actions. |
-| **Analytics** | ![Screenshot - Spending Charts](./screenshots/analytics.png) | Visual breakdown of expenses by category with interactive charts. |
+| **Welcome** | ![Screenshot - Splash Screen](./assets/screenshots/splash_screen.jpeg) | The premium animated entry screen showcasing the 'budget' logo. |
+| **Authentication** | ![Screenshot - Sign In Page](./assets/screenshots/auth_page.jpeg) | The secure login and registration interface with Firebase integration. |
+| **Dashboard** | ![Screenshot - Main Dashboard](./assets/screenshots/dashboard_page.jpeg) | The overview of current balance, recent expenses, and quick actions. |
+| **Analytics** | ![Screenshot - Spending Charts](./assets/screenshots/analytics_page.jpeg) | Visual breakdown of expenses by category with interactive charts. |
+| **Operations** | ![Screenshot - Add Transaction](./assets/screenshots/add_transaction.jpeg) | Simple and intuitive transaction logging. |
+| **Settings** | ![Screenshot - Profile](./assets/screenshots/setting_page.jpeg) | Personalized settings and biometric security configuration. |
 
 ---
 
